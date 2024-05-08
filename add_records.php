@@ -3,6 +3,7 @@
 // Retrieve the value of email from the URL query parameters
 $email = isset($_GET['email']) ? $_GET['email'] : '';
 
+
 // Check if the form is submitted
 if(isset($_POST['submit'])) {
     // Retrieve the value of email from the hidden input field
