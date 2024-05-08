@@ -23,6 +23,7 @@
             background-color: #f2f2f2;
         }
     </style>
+    
 </head>
 <body>
     <h1>BSCS Record Management System</h1>
